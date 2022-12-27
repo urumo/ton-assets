@@ -4,5 +4,7 @@ image: "https://cache.tonapi.io/imgproxy/Yr2o6BY51rpyXRsSEH43tPdcEzZezdlPmBI8jCR
 address: 0:51e0b3fdcf68ebf26462e53ceaab6c022ccb41b0becfe3a767b53ff6140a867d
 symbol: FRG
 max_supply: 700000000
+websites:
+  - "https://ton.app/chats/frgchat"
 social:
   - "https://t.me/fragmentChat"
